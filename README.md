@@ -18,9 +18,10 @@ Human emotions are pivotal in shaping cognitive processes and social interaction
 
 ### Objectives
 
-This study aims to develop more reliable affective computing systems by addressing these challenges. We model human emotions as ordinal variables using various machine learning algorithms, moving away from traditional categorical or continuous interpretations.
+This study aims to develop more reliable affective computing systems by addressing these challenges. We model human emotions as ordinal variables using various machine learning algorithms, moving away from traditional categorical or continuous interpretations. Specifically, the study aims to investigate how ranking algorithms can mitigate subjectivity bias in emotion annotations. It involves a thorough comparison of various machine learning models, emphasising the performance of ranking algorithms relative to traditional regression approaches.
 
 ### Methods
+For this study, we used two publicly available datasets: **AGAIN** and **RECOLA**. This approach eliminates any ethical issues related to data collection, storage, and processing, ensuring that our research adheres to ethical standards.
 
 We employed five machine learning algorithms for ranking:
 - **Random Forest Preference Learner**
