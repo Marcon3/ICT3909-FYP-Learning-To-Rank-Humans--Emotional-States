@@ -2,11 +2,11 @@
 
 ## Files Access 
 
-This repository contains the code and results corresponding to my Final Year Project to make use of different Machine Learning algorithms to Learn to Rank Humans' Emotional States without any bias. Due to GitHub's file size limitations, some folders are hosted externally.
+This repository contains the code and results corresponding to my Final Year Project to make use of different Machine Learning algorithms to Learn to Rank Humans' Emotional States. Due to GitHub's file size limitations, some folders are hosted externally.
 
-You can access the complete repository, including all code and results, through this [Google Drive link](https://drive.google.com/drive/folders/1S0E4BdghJJOV_DX-pt_TmptJNzv7pvZR?usp=sharing).
+You can access the complete repository, including all code and results that are included in this GitHub repository, through this [Google Drive link](https://drive.google.com/drive/folders/1S0E4BdghJJOV_DX-pt_TmptJNzv7pvZR?usp=sharing).
 
-The link provides access to the following folders that are not included here:
+The link provides access to all resources and the following folders that are not included here:
 - The `Random Forest` folder within the `RECOLA Ranking Algorithms` directory.
 - The `Random Forest Results` folder within the `AGAIN Ranking Algorithms` directory.
 
@@ -14,7 +14,7 @@ The link provides access to the following folders that are not included here:
 
 ## Overview
 
-Human emotions are pivotal in shaping cognitive processes and social interactions, influencing individual behavior and group dynamics. In affective computing, accurately modeling these emotions is essential for humanized computer interactions. Traditional methods, which categorize emotions into discrete states or quantify them along a continuous scale, often oversimplify the complex spectrum of human emotions. This oversimplification introduces subjective biases, resulting in inaccuracies and misinterpretations that undermine the robustness of emotion recognition technologies.
+Human emotions are pivotal in shaping cognitive processes and social interactions, influencing individual behavior and group dynamics. In affective computing, accurately modelling these emotions is essential for humanised computer interactions. Traditional methods, which categorise emotions into discrete states or quantify them along a continuous scale, often oversimplify the complex spectrum of human emotions. This oversimplification introduces subjective biases, resulting in inaccuracies and misinterpretations that undermine the robustness of emotion recognition technologies.
 
 ### Objectives
 
