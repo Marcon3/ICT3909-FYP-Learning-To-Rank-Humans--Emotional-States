@@ -14,7 +14,7 @@ The link provides access to all resources and the following folders that are not
 
 ## Overview
 
-Human emotions are pivotal in shaping cognitive processes and social interactions, influencing individual behavior and group dynamics. In affective computing, accurately modelling these emotions is essential for humanised computer interactions. Traditional methods, which categorise emotions into discrete states or quantify them along a continuous scale, often oversimplify the complex spectrum of human emotions. This oversimplification introduces subjective biases, resulting in inaccuracies and misinterpretations that undermine the robustness of emotion recognition technologies.
+Human emotions are pivotal in shaping cognitive processes and social interactions, influencing individual behaviour and group dynamics. In affective computing, accurately modelling these emotions is essential for humanised computer interactions. Traditional methods, which categorise emotions into discrete states or quantify them along a continuous scale, often oversimplify the complex spectrum of human emotions. This oversimplification introduces subjective biases, resulting in inaccuracies and misinterpretations that undermine the robustness of emotion recognition technologies.
 
 ### Objectives
 
@@ -38,7 +38,7 @@ Additionally, three regression algorithms were implemented for comparison:
 
 The performance of our models was assessed using robust statistical metrics:
 - **Pearson Correlation Coefficient**
-- **Kendall's Tau**
+- **Kendall's tau**
 
 ### Results
 
